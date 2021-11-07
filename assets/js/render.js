@@ -44,7 +44,7 @@ var footerContent = `
     <p>
     Cảm ơn bạn đã chọn và sử dụng VNux GNU/Linux, chúng tôi mong rằng bạn thích nó nhiều như chúng tôi thích làm VNux. <br>
     Nếu bạn có thắc mắc hay gặp các lỗi bug nào đó hãy báo về cho chúng tôi tại
-    <a href="https://github.com/kodestudio/vnux-site/issues">đây</a>
+    <a href="https://github.com/kodestudio/vnux-site/issues" style="color: Yellow">đây</a>
     </p>
 </div>
 </footer>
